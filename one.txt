@@ -1,0 +1,3 @@
+Initial text document to see about Git
+Second line
+Third line
